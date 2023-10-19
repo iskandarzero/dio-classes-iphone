@@ -1,18 +1,20 @@
-## Getting Started
+# DIO - Trilha Java Básico
+www.dio.me
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#### Autores
+- [Gleyson Sampaio](https://github.com/glysns)
 
-## Folder Structure
+## POO - Desafio
 
-The workspace contains two folders by default, where:
+Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+[Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Minutos relevantes do 00:15 até 00:55
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+###### Comportamentos esperados:
+* Repodutor Musicial: tocar, pausar, selecionarMusica
+* Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+* Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
